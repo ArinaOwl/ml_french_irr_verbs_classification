@@ -6,7 +6,7 @@
 
 Блокноты и полученные данные разделены по директориям:
 - [CREATE_IrrVerbs_dataset](https://github.com/ArinaOwl/ml_french_irr_verbs_classification/tree/main/CREATE_IrrVerbs_dataset) - создание таблицы обучающих данных (раздел 2.2):
-  - 'IrrVerbs.xlsx' - таблица с отобранными в процессе анализа данных неправильными глаголами в форме инфинитива,
+  - `IrrVerbs.xlsx` - таблица с отобранными в процессе анализа данных неправильными глаголами в форме инфинитива,
   - [Create_data.ipynb](https://github.com/ArinaOwl/ml_french_irr_verbs_classification/blob/main/CREATE_IrrVerbs_dataset/Create_data.ipynb) - блокнот для автоматического создания таблицы обучающих данных,
   - 'IrrVerbs(parsing).xlsx' - полученная таблица, содержащая выбранные временные формы и их транскрипции для глаголов из 'IrrVerbs.xlsx';
 
